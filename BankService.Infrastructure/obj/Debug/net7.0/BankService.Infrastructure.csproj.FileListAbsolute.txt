@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\bin\Debug\net7.0\BankService.Infrastructure.deps.json
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\bin\Debug\net7.0\BankService.Infrastructure.dll
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\bin\Debug\net7.0\BankService.Infrastructure.pdb
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\bin\Debug\net7.0\BankService.Domain.dll
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\bin\Debug\net7.0\BankService.Domain.pdb
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.csproj.CopyComplete
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.dll
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\refint\BankService.Infrastructure.dll
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\BankService.Infrastructure.pdb
+C:\Users\Admin\Desktop\BankAccountManagement\BankService.Infrastructure\obj\Debug\net7.0\ref\BankService.Infrastructure.dll
